@@ -1,0 +1,11 @@
+            .block
+            {
+                position: absolute;
+                left: 50px;
+                width: 130px;
+                height: 30px;
+                margin: 5px;
+            }
+            body {
+                background-color: red;
+            }
